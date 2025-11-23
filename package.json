@@ -1,6 +1,6 @@
 {
   "name": "abort-signal",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A utility library for working with AbortSignal in JavaScript and TypeScript.",
   "keywords": [
     "abort",
